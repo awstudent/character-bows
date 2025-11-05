@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabriela&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans&display=swap');
+
+body {
+    background-color: #FFEFFC
+}
+
+h1 {
+    font-family: Gabriela, serif;
+    color: #A02491;
+    margin-top: -115px;
+    padding-top: 125px;
+    padding-bottom: 15px;
+    margin-left: -10px;
+    margin-right: -10px;
+    text-align: center;
+    background-color: #FDCEFA; 
+}
+
+header img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+nav ul {
+    background-color: #FF9DEC;
+    color: #FFFFFF;
+    margin-top: -22px;
+    margin-left: -20px;
+    margin-right: -10px;
+    padding: 6px;
+    display: flex;
+    justify-content: center;
+}
+
+ul li {
+    font-family: Alegreya Sans, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    list-style-type: none;
+    margin: 15px;
+}
+
+/*unvisited link*/
+a:link {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+/*hover link*/
+a:hover {
+    color: #A02491;
+}
+
+h2 {
+    font-family: Gabriela, serif;
+    text-align: center;
+    color: #A02491;
+}
+
+div.featuredcollections {
+    display: flex;
+    margin: 6px;
+    justify-content: center;
+}
+
+h3 {
+    font-family: Gabriela, serif;
+    font-size: 30px;
+    color: #A02491;
+    text-align: center;
+}
+
+article {
+    padding: 15px;
+    margin-top: 30px;
+    margin-left: 35px;
+    margin-right: 35px;
+    background-color: #FF9DEC;
+    justify-content: center;
+}
+
+div.review1 {
+    font-family: Alegreya Sans, sans-serif;
+    font-size: 25px;
+    color: #A02491;
+    background-color: #FFFF;
+    display: inline-table;
+    margin: 20px;
+    padding: 15px;
+}
+
+div.review2 {
+    font-family: Alegreya Sans, sans-serif;
+    font-size: 25px;
+    color: #A02491;
+    background-color: #FFFF;
+    display: inline-table;
+    margin: 20px;
+    padding: 15px;
+}
+
+div.review3 {
+    font-family: Alegreya Sans, sans-serif;
+    font-size: 25px;
+    color: #A02491;
+    background-color: #FFFF;
+    display: inline-table;
+    margin: 20px;
+    padding: 15px;
+}
+
+button {
+    font-family: Gabriela, serif;
+    font-size: 20px;
+    text-align: center;
+    color: #A02491;
+    background-color: #FF9DEC;
+    padding: 5px;
+    margin-left: 650px;
+    margin-top: 20px;
+}
+
+footer {
+    font-family: Gabriela, serif;
+    color: #A02491;
+    text-align: center;
+    display: flex-box;
+    padding: 10px;
+    margin-top: 30px;
+    margin-left: -10px;
+    margin-right: -10px;
+    border-top: solid;
+    border-top-width: 20px;
+    border-block-color: #A02491;
+}
+
+
+
